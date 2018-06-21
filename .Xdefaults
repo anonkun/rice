@@ -1,0 +1,69 @@
+! Colors 0-15.
+*.color0: #491839
+*color0:  #491839
+*.color1: #EFA3A7
+*color1:  #EFA3A7
+*.color2: #9BC1BF
+*color2:  #9BC1BF
+*.color3: #FADEAC
+*color3:  #FADEAC
+*.color4: #F3A8D4
+*color4:  #F3A8D4
+*.color5: #FBD0CF
+*color5:  #FBD0CF
+*.color6: #FDF0D2
+*color6:  #FDF0D2
+*.color7: #eee1ec
+*color7:  #eee1ec
+*.color8: #a69da5
+*color8:  #a69da5
+*.color9: #EFA3A7
+*color9:  #EFA3A7
+*.color10: #9BC1BF
+*color10:  #9BC1BF
+*.color11: #FADEAC
+*color11:  #FADEAC
+*.color12: #F3A8D4
+*color12:  #F3A8D4
+*.color13: #FBD0CF
+*color13:  #FBD0CF
+*.color14: #FDF0D2
+*color14:  #FDF0D2
+*.color15: #eee1ec
+*color15:  #eee1ec
+
+! Black color that will not be affected by bold highlighting.
+*.color66: #491839
+*color66:  #491839
+
+! Xclock colors.
+XClock*foreground: #eee1ec
+XClock*background: #491839
+XClock*majorColor:  rgba:ee/e1/ec/ff
+XClock*minorColor:  rgba:ee/e1/ec/ff
+XClock*hourColor:   rgba:ee/e1/ec/ff
+XClock*minuteColor: rgba:ee/e1/ec/ff
+XClock*secondColor: rgba:ee/e1/ec/ff
+
+! Terminals
+*foreground:        #eee1ec
+*background:        #491839
+*.foreground:       #eee1ec
+*.background:       #491839
+emacs*foreground:   #eee1ec
+emacs*background:   #491839
+URxvt*foreground:   #eee1ec
+XTerm*foreground:   #eee1ec
+UXTerm*foreground:  #eee1ec
+URxvt*background:   [60]#491839
+XTerm*background:   #491839
+UXTerm*background:  #491839
+URxvt*cursorColor:  #eee1ec
+XTerm*cursorColor:  #eee1ec
+UXTerm*cursorColor: #eee1ec
+URxvt*borderColor:  [60]#491839
+URxvt*geometry:	    60x46
+URxvt*font:	    xft:monaco:bold:size=9
+URxvt.scrollBar:    false	
+URxvt*depth:	    32
+URxvt*border:	    false
